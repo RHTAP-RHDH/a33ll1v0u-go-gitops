@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: a33ll1v0u-go-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/a33ll1v0u-go
